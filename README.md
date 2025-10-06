@@ -1,7 +1,7 @@
 # oizbec-sdk
 ## 🔹 Security Comparison: Ethereum vs P-256 Wallet
 
-| Feature                  | Ethereum Wallet (secp256k1)               | Your Chain Wallet (P-256)                 |
+| Feature                  | Ethereum Wallet (secp256k1)               | Oizbex Chain Wallet (P-256)                 |
 |--------------------------|-------------------------------------------|------------------------------------------|
 | **Elliptic Curve**       | secp256k1                                  | P-256 / secp256r1                        |
 | **Key Size**             | 256-bit                                    | 256-bit                                   |
