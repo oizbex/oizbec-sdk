@@ -10,9 +10,9 @@
 | **Private Key Encryption**| AES-128-GCM / AES-256-CBC                 | AES-256-GCM                               |
 | **KDF (Password-based)** | scrypt (N=262144, r=8, p=1)               | scrypt (N=262144, r=8, p=1)             |
 | **MAC / Integrity**      | Keccak256(derivedKey + ciphertext)        | Keccak256(derivedKey + ciphertext)       |
-| **Signing Speed**        | Faster                                     | Slightly slower                           |
-| **Verification Speed**   | Faster                                     | Slightly slower                           |
-| **Ecosystem / Support**  | Extensive wallets, tools, DApps, libraries| Custom chain, integration required        |
+| **Signing Speed**        | Faster                                     | very fast                           |
+| **Verification Speed**   | Faster                                     | very fast                           |
+| **Ecosystem / Support**  | Extensive wallets, tools, DApps, libraries| Oizbex chain, integration required        |
 | **Security Level**       | Very high, battle-tested                   | Very high, equivalent to Ethereum        |
 
 **✅ Notes:**  
